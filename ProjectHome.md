@@ -1,0 +1,1 @@
+BLumbox is short for Bloglines to MBOX.  This is a tool designed to retreive RSS feeds as subscribed to via Bloglines and store them in an MBOX style mailbox which is suitable for reading via IMAP or your mail application of choice.
